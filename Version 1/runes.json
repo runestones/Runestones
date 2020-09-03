@@ -12,7 +12,7 @@
         "name": "Aftershock",
         "type": "Control, Offense",
         "damage": "",
-        "coolDown": "35 sec",
+        "coolDown": "Cooldown: 35 sec",
         "information": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     },
     {
@@ -28,7 +28,7 @@
         "name": "Electrocute",
         "type": "Burst Damage",
         "damage": "Damage: 30 - 184 (lv) + 40% bonus(physical) + 25%(ability)",
-        "coolDown": "25 sec",
+        "coolDown": "Cooldown: 25 sec",
         "information": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     },
     {
@@ -44,7 +44,7 @@
         "name": "Font of Lift",
         "type": "Team Heal",
         "damage": "",
-        "coolDown": "4 sec",
+        "coolDown": "Cooldown: 4 sec",
         "information": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     },
     {
@@ -60,7 +60,7 @@
         "name": "Kleptomancy",
         "type": "Random Buff",
         "damage": "",
-        "coolDown": "25 sec",
+        "coolDown": "Cooldown: 25 sec",
         "information": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     }
 ]
