@@ -5,7 +5,7 @@
         "type": "Poke, Protect",
         "damage": "Damage: 10 - 60 (lv) + 20% bonus(physical) + 10%(ability)",
         "coolDown": "",
-        "informatin": ""
+        "informatin": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     },
     {
         "icon": "https://docs.google.com/uc?export=download&id=1EBruQRtjpKWDf7Iiu406ABCMNWbuGMZy",
@@ -13,7 +13,7 @@
         "type": "Control, Offense",
         "damage": "",
         "coolDown": "35 sec",
-        "informatin": ""
+        "informatin": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     },
     {
         "icon": "https://docs.google.com/uc?export=download&id=1EUk2nILA-6PWeo94MMvda7HuMH-izsoY",
@@ -21,7 +21,7 @@
         "type": "Stacking Damage",
         "damage": "",
         "coolDown": "",
-        "informatin": ""
+        "informatin": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     },
     {
         "icon": "https://docs.google.com/uc?export=download&id=1nJQ9lAm09XkRXizoZBeETseOHIebWpXG",
@@ -29,7 +29,7 @@
         "type": "Burst Damage",
         "damage": "Damage: 30 - 184 (lv) + 40% bonus(physical) + 25%(ability)",
         "coolDown": "25 sec",
-        "informatin": ""
+        "informatin": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     },
     {
         "icon": "https://docs.google.com/uc?export=download&id=1NT5kbjbQaKHKibaeb2m8FTchoIhgF-AT",
@@ -37,7 +37,7 @@
         "type": "Mobility, Heal",
         "damage": "Heal: 15 - 85 + 30% bonus(physical) + 30%(ability)",
         "coolDown": "",
-        "informatin": ""
+        "informatin": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     },
     {
         "icon": "https://docs.google.com/uc?export=download&id=1DIQeooSpFyjKbEO83BO0weMriYgcsmya",
@@ -45,7 +45,7 @@
         "type": "Team Heal",
         "damage": "",
         "coolDown": "4 sec",
-        "informatin": ""
+        "informatin": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     },
     {
         "icon": "https://docs.google.com/uc?export=download&id=1V2Ugv3YjVo-ggRBDUBZedDzuk5RsWflx",
@@ -53,7 +53,7 @@
         "type": "Tank, Heal",
         "damage": "Heal: 2% of your max health",
         "coolDown": "",
-        "informatin": ""
+        "informatin": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     },
     {
         "icon": "https://docs.google.com/uc?export=download&id=1kpAh9FLwZv34i6jgVX533CataDep7frY",
@@ -61,6 +61,6 @@
         "type": "Random Buff",
         "damage": "",
         "coolDown": "25 sec",
-        "informatin": ""
+        "informatin": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     }
 ]
