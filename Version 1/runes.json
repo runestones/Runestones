@@ -57,10 +57,10 @@
         "icon": "https://docs.google.com/uc?export=download&id=1V2Ugv3YjVo-ggRBDUBZedDzuk5RsWflx",
         "name": "Grasp of The Undying",
         "type": "Tank, Heal",
-        "damage": "Heal: 2% of your max health",
-        "defence": "",
+        "damage": "Bonus Magic Damage: 4% of your max health",
+        "defence": "Heal: 2% of your max health",
         "coolDown": "",
-        "information": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
+        "information": "https://drive.google.com/uc?export=download&id=1AJM7bCfEvVXkb0YNAks1vta3n5KS-hy2"
     },
     {
         "icon": "https://docs.google.com/uc?export=download&id=1kpAh9FLwZv34i6jgVX533CataDep7frY",
