@@ -12,19 +12,19 @@
         "icon": "https://docs.google.com/uc?export=download&id=1EBruQRtjpKWDf7Iiu406ABCMNWbuGMZy",
         "name": "Aftershock",
         "type": "Control, Offense",
-        "damage": "",
-        "defence": "",
+        "damage": "Damage: 12-110 + 4% max health, magic damage ",
+        "defence": "Defenses: 50 AR (armor) + 50% bonus AR and 50 MR (magic resistance) + 50% MR for 2.5 seconds ",
         "coolDown": "Cooldown: 35 sec",
-        "information": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
+        "information": "https://drive.google.com/uc?export=download&id=1Bd7TXt20ntkNEUR9t6zr70yt1J3FDgnc"
     },
     {
         "icon": "https://docs.google.com/uc?export=download&id=1EUk2nILA-6PWeo94MMvda7HuMH-izsoY",
         "name": "Conqueror",
         "type": "Stacking Damage",
-        "damage": "",
+        "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
         "defence": "",
-        "coolDown": "",
-        "information": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
+        "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
+        "information": "https://drive.google.com/uc?export=download&id=1ZTvA1hxTO_4DFTmF53P0euhLx3brCA_X"
     },
     {
         "icon": "https://docs.google.com/uc?export=download&id=1nJQ9lAm09XkRXizoZBeETseOHIebWpXG",
@@ -42,7 +42,7 @@
         "damage": "Heal: 15 - 85 + 30% bonus(physical) + 30%(ability)",
         "defence": "",
         "coolDown": "",
-        "information": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
+        "information": "https://drive.google.com/uc?export=download&id=1qxQLKKyzRi2U_dRIIV8DbbkKtq42MXpS"
     },
     {
         "icon": "https://docs.google.com/uc?export=download&id=1DIQeooSpFyjKbEO83BO0weMriYgcsmya",
