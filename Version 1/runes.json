@@ -4,7 +4,7 @@
         "name": "Aery",
         "type": "Poke, Protect",
         "damage": "Damage: 10 - 60 (lv) + 20% bonus(physical) + 10%(ability)",
-        "defence": "",
+        "defence": "Shield: 20 - 120 (lv) + 40%(physical) + 20%(ability)",
         "coolDown": "",
         "information": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     },
