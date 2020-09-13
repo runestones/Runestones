@@ -1,6 +1,6 @@
 [
     {
-        "icon": "https://docs.google.com/uc?export=download&id=19jg-MQgkinh8H-GBhDiBhGG9YpwTJ_bR",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/computer-basic-3d7e1.appspot.com/o/lolicon.png?alt=media&token=eeaaf0be-a449-4109-a1fd-a097a90120c4",
         "name": "Aery",
         "type": "Poke, Protect",
         "damage": "Damage: 10 - 60 (lv) + 20% bonus(physical) + 10%(ability)",
@@ -9,66 +9,66 @@
         "information": "https://drive.google.com/uc?export=download&id=1ap71C6cwERhE0Qv_8pdElKp3q3vrMRk3"
     },
     {
-        "icon": "https://docs.google.com/uc?export=download&id=1EBruQRtjpKWDf7Iiu406ABCMNWbuGMZy",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/computer-basic-3d7e1.appspot.com/o/lolicon.png?alt=media&token=eeaaf0be-a449-4109-a1fd-a097a90120c4",
         "name": "Aftershock",
         "type": "Control, Offense",
         "damage": "Damage: 12-110 + 4% max health, magic damage ",
         "defence": "Defenses: 50 AR (armor) + 50% bonus AR and 50 MR (magic resistance) + 50% MR for 2.5 seconds ",
         "coolDown": "Cooldown: 35 sec",
-        "information": "https://drive.google.com/uc?export=download&id=1ap71C6cwERhE0Qv_8pdElKp3q3vrMRk3"
+        "information": "https://drive.google.com/uc?export=download&id=1Bd7TXt20ntkNEUR9t6zr70yt1J3FDgnc"
     },
     {
-        "icon": "https://docs.google.com/uc?export=download&id=1EUk2nILA-6PWeo94MMvda7HuMH-izsoY",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/computer-basic-3d7e1.appspot.com/o/lolicon.png?alt=media&token=eeaaf0be-a449-4109-a1fd-a097a90120c4",
         "name": "Conqueror",
         "type": "Stacking Damage",
         "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
         "defence": "",
         "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
-        "information": "https://drive.google.com/uc?export=download&id=1ap71C6cwERhE0Qv_8pdElKp3q3vrMRk3"
+        "information": "https://drive.google.com/uc?export=download&id=1ZTvA1hxTO_4DFTmF53P0euhLx3brCA_X"
     },
     {
-        "icon": "https://docs.google.com/uc?export=download&id=1nJQ9lAm09XkRXizoZBeETseOHIebWpXG",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/computer-basic-3d7e1.appspot.com/o/lolicon.png?alt=media&token=eeaaf0be-a449-4109-a1fd-a097a90120c4",
         "name": "Electrocute",
         "type": "Burst Damage",
         "damage": "Damage: 30 - 184 (lv) + 40% bonus(physical) + 25%(ability)",
         "defence": "",
         "coolDown": "Cooldown: 25 seconds",
-        "information": "https://drive.google.com/uc?export=download&id=1ap71C6cwERhE0Qv_8pdElKp3q3vrMRk3"
+        "information": "https://drive.google.com/uc?export=download&id=13cvRiFWHncmvAWMhkCfW6r2y4fsZxsjQ"
     },
     {
-        "icon": "https://docs.google.com/uc?export=download&id=1NT5kbjbQaKHKibaeb2m8FTchoIhgF-AT",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/computer-basic-3d7e1.appspot.com/o/lolicon.png?alt=media&token=eeaaf0be-a449-4109-a1fd-a097a90120c4",
         "name": "Fleet Footwork",
         "type": "Mobility, Heal",
         "damage": "Heal: 15 - 85 + 30% bonus(physical) + 30%(ability)",
         "defence": "",
         "coolDown": "",
-        "information": "https://drive.google.com/uc?export=download&id=1ap71C6cwERhE0Qv_8pdElKp3q3vrMRk3"
+        "information": "https://drive.google.com/uc?export=download&id=1qxQLKKyzRi2U_dRIIV8DbbkKtq42MXpS"
     },
     {
-        "icon": "https://docs.google.com/uc?export=download&id=1DIQeooSpFyjKbEO83BO0weMriYgcsmya",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/computer-basic-3d7e1.appspot.com/o/lolicon.png?alt=media&token=eeaaf0be-a449-4109-a1fd-a097a90120c4",
         "name": "Font of Lift",
         "type": "Team Heal",
         "damage": "Heal: equal to 3% of your max health in 2 seconds ",
         "defence": "",
         "coolDown": "",
-        "information": "https://drive.google.com/uc?export=download&id=1ap71C6cwERhE0Qv_8pdElKp3q3vrMRk3"
+        "information": "https://drive.google.com/uc?export=download&id=1TA7OGxLGPZXU0hZlQxIUsw3dspJMWys5"
     },
     {
-        "icon": "https://docs.google.com/uc?export=download&id=1V2Ugv3YjVo-ggRBDUBZedDzuk5RsWflx",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/computer-basic-3d7e1.appspot.com/o/lolicon.png?alt=media&token=eeaaf0be-a449-4109-a1fd-a097a90120c4",
         "name": "Grasp of The Undying",
         "type": "Tank, Heal",
         "damage": "Bonus Magic Damage: 4% of your max health",
         "defence": "Heal: 2% of your max health",
         "coolDown": "",
-        "information": "https://drive.google.com/uc?export=download&id=1ap71C6cwERhE0Qv_8pdElKp3q3vrMRk3"
+        "information": "https://drive.google.com/uc?export=download&id=1AJM7bCfEvVXkb0YNAks1vta3n5KS-hy2"
     },
     {
-        "icon": "https://docs.google.com/uc?export=download&id=1kpAh9FLwZv34i6jgVX533CataDep7frY",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/computer-basic-3d7e1.appspot.com/o/lolicon.png?alt=media&token=eeaaf0be-a449-4109-a1fd-a097a90120c4",
         "name": "Kleptomancy",
         "type": "Random Buff",
         "damage": "",
         "defence": "",
         "coolDown": "Cooldown: 25 seconds",
-        "information": "https://drive.google.com/uc?export=download&id=1ap71C6cwERhE0Qv_8pdElKp3q3vrMRk3"
+        "information": "https://drive.google.com/uc?export=download&id=1O2qZsEEypIvW7pKXRFOdrcxA8ImdvEJ4"
     }
 ]
