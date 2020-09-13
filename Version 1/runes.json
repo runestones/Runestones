@@ -4,6 +4,7 @@
         "name": "Aery",
         "type": "Poke, Protect",
         "damage": "Damage: 10 - 60 (lv) + 20% bonus(physical) + 10%(ability)",
+        "defence": "",
         "coolDown": "",
         "information": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     },
@@ -12,6 +13,7 @@
         "name": "Aftershock",
         "type": "Control, Offense",
         "damage": "",
+        "defence": "",
         "coolDown": "Cooldown: 35 sec",
         "information": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     },
@@ -20,6 +22,7 @@
         "name": "Conqueror",
         "type": "Stacking Damage",
         "damage": "",
+        "defence": "",
         "coolDown": "",
         "information": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     },
@@ -28,6 +31,7 @@
         "name": "Electrocute",
         "type": "Burst Damage",
         "damage": "Damage: 30 - 184 (lv) + 40% bonus(physical) + 25%(ability)",
+        "defence": "",
         "coolDown": "Cooldown: 25 sec",
         "information": "https://drive.google.com/uc?export=download&id=13cvRiFWHncmvAWMhkCfW6r2y4fsZxsjQ"
     },
@@ -36,6 +40,7 @@
         "name": "Fleet Footwork",
         "type": "Mobility, Heal",
         "damage": "Heal: 15 - 85 + 30% bonus(physical) + 30%(ability)",
+        "defence": "",
         "coolDown": "",
         "information": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     },
@@ -44,6 +49,7 @@
         "name": "Font of Lift",
         "type": "Team Heal",
         "damage": "",
+        "defence": "",
         "coolDown": "Cooldown: 4 sec",
         "information": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     },
@@ -52,6 +58,7 @@
         "name": "Grasp of The Undying",
         "type": "Tank, Heal",
         "damage": "Heal: 2% of your max health",
+        "defence": "",
         "coolDown": "",
         "information": "https://docs.google.com/uc?export=download&id=1Kw_all48mO5AHdqGgFzWJ8MJ7epJe5E-"
     },
@@ -60,6 +67,7 @@
         "name": "Kleptomancy",
         "type": "Random Buff",
         "damage": "",
+        "defence": "",
         "coolDown": "Cooldown: 25 sec",
         "information": "https://drive.google.com/uc?export=download&id=1O2qZsEEypIvW7pKXRFOdrcxA8ImdvEJ4"
     }
