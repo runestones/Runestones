@@ -1,10 +1,10 @@
 [
     {
-        "icon": "https://drive.google.com/uc?export=download&id=1GMsM3LcLo_lYTqVqUQGQ2cBa-XtoGVYQ",
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/AhriSquare.png/revision/latest?cb=20170728171734",
         "name": "Ahri",
         "fullName": "the Nine-Tailed Fox",
         "bluePrice": "6000",
-        "goldPrice": "10000",
+        "goldPrice": "10000",   
         "type": "Range",
         "role": "Mage",
         "itemBuild": [
@@ -57,7 +57,7 @@
         "information4": ""
     },
     {
-        "icon": "https://drive.google.com/uc?export=download&id=1bJ2O6R3eMOWjL3m0FU6gbUp8fpc64VVl",
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/AlistarSquare.png/revision/latest?cb=20170728172718",
         "name": "Alistar",
         "fullName": "the Minotaur",
         "bluePrice": "6000",
@@ -171,7 +171,7 @@
         "information4": ""
     },
     {
-        "icon": "https://drive.google.com/uc?export=download&id=1k_PUTH1LRSmTIhkf5pS5peLJp21n1bXk",
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/AsheSquare.png/revision/latest?cb=20170728180207",
         "name": "Ashe",
         "fullName": "the Frost Archer",
         "bluePrice": "6000",
@@ -226,5 +226,1829 @@
         "information2": "https://drive.google.com/uc?export=download&id=1AUk0CmkVRy_DDrksQmv5R0K6y2FZNO9h",
         "information3": "https://drive.google.com/uc?export=download&id=1HM1jv5HZgYy__Wv27aETXT6Q1sYGe-v3",
         "information4": "https://drive.google.com/uc?export=download&id=1IImJfD_fmQI_NaXLdikuiP6rmlmOtOSR"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/BlitzcrankSquare.png/revision/latest?cb=20170728191426",
+        "name": "Blitzcrank",
+        "fullName": "the Great Steam Golem",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b6/BraumSquare.png/revision/latest?cb=20170728193018",
+        "name": "Braum",
+        "fullName": "the Heart of the Frelijord",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/13/CamilleSquare.png/revision/latest?cb=20190621232952",
+        "name": "Camille",
+        "fullName": "the Steel Shadow",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Dr._MundoSquare.png/revision/latest?cb=20170801200610",
+        "name": "Dr. Mundo",
+        "fullName": "the Madman of Zaun",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/EzrealSquare.png/revision/latest?cb=20170801212629",
+        "name": "Ezreal",
+        "fullName": "the Prodigal Explorer",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/FioraSquare.png/revision/latest?cb=20170801220008",
+        "name": "Fiora",
+        "fullName": "the Grand Duelist",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/db/FizzSquare.png/revision/latest?cb=20170801220642",
+        "name": "Fizz",
+        "fullName": "the Tidal Trickster",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ea/GarenSquare.png/revision/latest?cb=20170801230539",
+        "name": "Garen",
+        "fullName": "The Might of Demacia",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/GragasSquare.png/revision/latest?cb=20170801232908",
+        "name": "Gragas",
+        "fullName": "the Rabble Rouser",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3f/JannaSquare.png/revision/latest?cb=20170802014753",
+        "name": "Janna",
+        "fullName": "the Storm's Fury",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/JaxSquare.png/revision/latest?cb=20170802015255",
+        "name": "Jax",
+        "fullName": "Grandmaster at Arms",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/JhinSquare.png/revision/latest?cb=20200327221915",
+        "name": "Jhin",
+        "fullName": "the Virtuoso",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e2/JinxSquare.png/revision/latest?cb=20170802020616",
+        "name": "Jinx",
+        "fullName": "the Loose Cannon",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LuxSquare.png/revision/latest?cb=20170802043947",
+        "name": "Lux",
+        "fullName": "the Lady of Luminosity",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/MalphiteSquare.png/revision/latest?cb=20170802051758",
+        "name": "Malphite",
+        "fullName": "Shard of the Monolith",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b2/Master_YiSquare.png/revision/latest?cb=20170802053356",
+        "name": "Master Yi",
+        "fullName": "the Wuju Bladesman",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/MissFortuneSquare.png/revision/latest?cb=20170802061244",
+        "name": "Miss Fortune",
+        "fullName": "the Bounty Hunter",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/NamiSquare_Unreleased.png/revision/latest?cb=20170802071029",
+        "name": "Nami",
+        "fullName": "the Tidecaller",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/NasusSquare.png/revision/latest?cb=20170802071451",
+        "name": "Nasus",
+        "fullName": "the Curator of the Sands",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/OlafSquare.png/revision/latest?cb=20170802084052",
+        "name": "Olaf",
+        "fullName": "the Berserker",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/OriannaSquare.png/revision/latest?cb=20170802084910",
+        "name": "Orianna",
+        "fullName": "the Lady of Clockwork",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f6/ShyvanaSquare.png/revision/latest?cb=20170802130538",
+        "name": "Shyvana",
+        "fullName": "the Half-Dragon",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8d/SorakaSquare.png/revision/latest?cb=20170802134039",
+        "name": "Soraka",
+        "fullName": "the Starchild",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/TeemoSquare.png/revision/latest?cb=20170802152348",
+        "name": "Teemo",
+        "fullName": "the Swift Scout",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/TryndamereSquare.png/revision/latest?cb=20170802160315",
+        "name": "Tryndamere",
+        "fullName": "the Barbarian King",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Twisted_FateSquare.png/revision/latest?cb=20170802161631",
+        "name": "Twisted Fate",
+        "fullName": "the Card Master",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/VayneSquare.png/revision/latest?cb=20170802170335",
+        "name": "Vayne",
+        "fullName": "the Night Hunter",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/ViSquare.png/revision/latest?cb=20170802171310",
+        "name": "Vi",
+        "fullName": "the Piltover Enforcer",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ae/Xin_ZhaoSquare_Unreleased.png/revision/latest?cb=20170802182319",
+        "name": "Xin Zhao",
+        "fullName": "the Seneschal of Demacia",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
+        "name": "Yasuo",
+        "fullName": "the Unforgiven",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/ZedSquare.png/revision/latest?cb=20170802184437",
+        "name": "Zed",
+        "fullName": "the Master of Shadows",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/ZiggsSquare.png/revision/latest?cb=20170802184914",
+        "name": "Ziggs",
+        "fullName": "the Hexplosives Expert",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "",
+        "role": "",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "information1": "",
+                "information2": ""
+            }
+        ],
+        "information1": "",
+        "information2": "",
+        "information3": "",
+        "information4": ""
     }
 ]
