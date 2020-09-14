@@ -15,30 +15,30 @@
         "icon": "https://docs.google.com/uc?export=download&id=11wnCSxOZFO2YS2ir92mxnWmPxdYTspa4",
         "name": "Flash",
         "coolDown": "Cooldown: 150 seconds",
-        "information": "https://drive.google.com/uc?export=download&id=1RPMEuerMcMnU-e04DrcQlOPMiF_ZZpa-"
+        "information": "https://dl.dropboxusercontent.com/s/rxrgd2quvpr18o1/flash_info.png?dl=0"
     },
     {
         "icon": "https://docs.google.com/uc?export=download&id=1FwbxLmEJpv4Yu0bj6AXXt3wC-qvi5aVQ",
         "name": "Ghost",
         "coolDown": "Cooldown: 90 seconds",
-        "information": "https://drive.google.com/uc?export=download&id=12jLZpSuUJF57l_53OokJPgrlaaYGoD6F"
+        "information": "https://dl.dropboxusercontent.com/s/g5bmrfhjqei5wht/ghost_info.png?dl=0"
     },
     {
         "icon": "https://docs.google.com/uc?export=download&id=1Tfq8ynSW5bZg0fKs-vVRclGmy7-70qfI",
         "name": "Heal",
         "coolDown": "Cooldown: 120 seconds",
-        "information": "https://drive.google.com/uc?export=download&id=1OfPIthEdl5THg9NoR1jiszXqxr52O3q7"
+        "information": "https://dl.dropboxusercontent.com/s/ui3vig3s1s6hw0g/heal_info.png?dl=0"
     },
     {
         "icon": "https://docs.google.com/uc?export=download&id=1aYMGP-g0nKbXf3ENTd3YMB3ukiWACCW_",
         "name": "Ignite",
         "coolDown": "Cooldown: 90 seconds",
-        "information": "https://drive.google.com/uc?export=download&id=1_m0AftjTJZ4DRVpCqtu0ZsWS2OwZDanl"
+        "information": "https://dl.dropboxusercontent.com/s/gqeazud89d2u6pv/ignite_info.png?dl=0"
     },
     {
         "icon": "https://docs.google.com/uc?export=download&id=1P6h1BLtFk72kR6MVtg1hO4mYE_h988zt",
         "name": "Smite",
         "coolDown": "Cooldown: 10 seconds",
-        "information": "https://drive.google.com/uc?export=download&id=1PpmwLO0NRdkK91S7WffdCBR5BHMRbfGX"
+        "information": "https://dl.dropboxusercontent.com/s/pevzz6g5whzl337/smite_info.png?dl=0"
     }
 ]
