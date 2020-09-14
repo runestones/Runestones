@@ -4,7 +4,7 @@
         "name": "Ahri",
         "fullName": "the Nine-Tailed Fox",
         "bluePrice": "6000",
-        "goldPrice": "10000",   
+        "goldPrice": "10000",
         "type": "Range",
         "role": "Mage",
         "itemBuild": [
@@ -51,10 +51,11 @@
                 "information2": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n"
             }
         ],
-        "information1": "https://dl.dropboxusercontent.com/s/072cy080lgwr1zj/item1.png?dl=0",
-        "information2": "https://dl.dropboxusercontent.com/s/vjvyfp0sfze0299/item3.png?dl=0",
-        "information3": "https://dl.dropboxusercontent.com/s/072cy080lgwr1zj/item1.png?dl=0",
-        "information4": ""
+        "skillOne": "https://dl.dropboxusercontent.com/s/072cy080lgwr1zj/item1.png?dl=0",
+        "skillTwo": "https://dl.dropboxusercontent.com/s/vjvyfp0sfze0299/item3.png?dl=0",
+        "skillThree": "https://dl.dropboxusercontent.com/s/072cy080lgwr1zj/item1.png?dl=0",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/AlistarSquare.png/revision/latest?cb=20170728172718",
@@ -108,10 +109,11 @@
                 "information2": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n"
             }
         ],
-        "information1": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
-        "information2": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
-        "information3": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
-        "information4": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n"
+        "skillOne": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
+        "skillTwo": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
+        "skillThree": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
+        "skillFour": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/AnnieSquare.png/revision/latest?cb=20170728174744",
@@ -165,10 +167,11 @@
                 "information2": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n"
             }
         ],
-        "information1": "https://drive.google.com/uc?export=download&id=18PUEY72BdqgMwECzhtpppLKXPO7CaF-E",
-        "information2": "https://drive.google.com/uc?export=download&id=1i6nLCe7QMpWsUCj_VcPP6xSKrtncYrv_",
-        "information3": "https://drive.google.com/uc?export=download&id=18rGRZHyL3GuNHQOvpQPk7Nu4WYptMwlv",
-        "information4": ""
+        "skillOne": "https://drive.google.com/uc?export=download&id=18PUEY72BdqgMwECzhtpppLKXPO7CaF-E",
+        "skillTwo": "https://drive.google.com/uc?export=download&id=1i6nLCe7QMpWsUCj_VcPP6xSKrtncYrv_",
+        "skillThree": "https://drive.google.com/uc?export=download&id=18rGRZHyL3GuNHQOvpQPk7Nu4WYptMwlv",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/AsheSquare.png/revision/latest?cb=20170728180207",
@@ -222,10 +225,11 @@
                 "information2": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n"
             }
         ],
-        "information1": "https://drive.google.com/uc?export=download&id=1pqOJWPRsCeCduDbgWIewZF8qp2c-GvaJ",
-        "information2": "https://drive.google.com/uc?export=download&id=1AUk0CmkVRy_DDrksQmv5R0K6y2FZNO9h",
-        "information3": "https://drive.google.com/uc?export=download&id=1HM1jv5HZgYy__Wv27aETXT6Q1sYGe-v3",
-        "information4": "https://drive.google.com/uc?export=download&id=1IImJfD_fmQI_NaXLdikuiP6rmlmOtOSR"
+        "skillOne": "https://drive.google.com/uc?export=download&id=1pqOJWPRsCeCduDbgWIewZF8qp2c-GvaJ",
+        "skillTwo": "https://drive.google.com/uc?export=download&id=1AUk0CmkVRy_DDrksQmv5R0K6y2FZNO9h",
+        "skillThree": "https://drive.google.com/uc?export=download&id=1HM1jv5HZgYy__Wv27aETXT6Q1sYGe-v3",
+        "skillFour": "https://drive.google.com/uc?export=download&id=1IImJfD_fmQI_NaXLdikuiP6rmlmOtOSR",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/BlitzcrankSquare.png/revision/latest?cb=20170728191426",
@@ -279,10 +283,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b6/BraumSquare.png/revision/latest?cb=20170728193018",
@@ -336,10 +341,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/13/CamilleSquare.png/revision/latest?cb=20190621232952",
@@ -393,10 +399,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Dr._MundoSquare.png/revision/latest?cb=20170801200610",
@@ -450,10 +457,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/EzrealSquare.png/revision/latest?cb=20170801212629",
@@ -507,10 +515,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/FioraSquare.png/revision/latest?cb=20170801220008",
@@ -564,10 +573,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/db/FizzSquare.png/revision/latest?cb=20170801220642",
@@ -617,14 +627,15 @@
                 "icon": "",
                 "name": "",
                 "price": "",
-                "information1": "",
-                "information2": ""
+                "information": "",
+                "skillTwo": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ea/GarenSquare.png/revision/latest?cb=20170801230539",
@@ -678,10 +689,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/GragasSquare.png/revision/latest?cb=20170801232908",
@@ -735,10 +747,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3f/JannaSquare.png/revision/latest?cb=20170802014753",
@@ -792,10 +805,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/JaxSquare.png/revision/latest?cb=20170802015255",
@@ -849,10 +863,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/JhinSquare.png/revision/latest?cb=20200327221915",
@@ -906,10 +921,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e2/JinxSquare.png/revision/latest?cb=20170802020616",
@@ -963,10 +979,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LuxSquare.png/revision/latest?cb=20170802043947",
@@ -1020,10 +1037,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/MalphiteSquare.png/revision/latest?cb=20170802051758",
@@ -1077,10 +1095,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b2/Master_YiSquare.png/revision/latest?cb=20170802053356",
@@ -1134,10 +1153,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/MissFortuneSquare.png/revision/latest?cb=20170802061244",
@@ -1191,10 +1211,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/NamiSquare_Unreleased.png/revision/latest?cb=20170802071029",
@@ -1248,10 +1269,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/NasusSquare.png/revision/latest?cb=20170802071451",
@@ -1305,10 +1327,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/OlafSquare.png/revision/latest?cb=20170802084052",
@@ -1362,10 +1385,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/OriannaSquare.png/revision/latest?cb=20170802084910",
@@ -1419,10 +1443,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f6/ShyvanaSquare.png/revision/latest?cb=20170802130538",
@@ -1476,10 +1501,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8d/SorakaSquare.png/revision/latest?cb=20170802134039",
@@ -1533,10 +1559,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/TeemoSquare.png/revision/latest?cb=20170802152348",
@@ -1590,10 +1617,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/TryndamereSquare.png/revision/latest?cb=20170802160315",
@@ -1647,10 +1675,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Twisted_FateSquare.png/revision/latest?cb=20170802161631",
@@ -1704,10 +1733,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/VayneSquare.png/revision/latest?cb=20170802170335",
@@ -1761,10 +1791,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/ViSquare.png/revision/latest?cb=20170802171310",
@@ -1818,10 +1849,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ae/Xin_ZhaoSquare_Unreleased.png/revision/latest?cb=20170802182319",
@@ -1875,10 +1907,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/YasuoSquare.png/revision/latest?cb=20170802182916",
@@ -1932,10 +1965,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/ZedSquare.png/revision/latest?cb=20170802184437",
@@ -1989,10 +2023,11 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/ZiggsSquare.png/revision/latest?cb=20170802184914",
@@ -2046,9 +2081,10 @@
                 "information2": ""
             }
         ],
-        "information1": "",
-        "information2": "",
-        "information3": "",
-        "information4": ""
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
     }
 ]
