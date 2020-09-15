@@ -5,8 +5,8 @@
         "fullName": "the Nine-Tailed Fox",
         "bluePrice": "6000",
         "goldPrice": "10000",
-        "type": "Range",
-        "role": "Mage",
+        "type": "Ranged",
+        "role": "Mage/Assassin",
         "itemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
@@ -69,8 +69,8 @@
         "fullName": "the Minotaur",
         "bluePrice": "6000",
         "goldPrice": "10000",
-        "type": "Range",
-        "role": "Mage",
+        "type": "Melee",
+        "role": "Tank/Support",
         "itemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
@@ -133,7 +133,7 @@
         "fullName": "the Dark Child",
         "bluePrice": "6000",
         "goldPrice": "10000",
-        "type": "Range",
+        "type": "Ranged",
         "role": "Mage",
         "itemBuild": [
             {
@@ -197,8 +197,8 @@
         "fullName": "the Frost Archer",
         "bluePrice": "6000",
         "goldPrice": "10000",
-        "type": "Range",
-        "role": "Mage",
+        "type": "Ranged",
+        "role": "Marksman/Support",
         "itemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
@@ -261,8 +261,8 @@
         "fullName": "the Great Steam Golem",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Tank/Fighter",
         "itemBuild": [
             {
                 "icon": "",
@@ -325,8 +325,8 @@
         "fullName": "the Heart of the Frelijord",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Support/Tank",
         "itemBuild": [
             {
                 "icon": "",
@@ -389,8 +389,8 @@
         "fullName": "the Steel Shadow",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Fighter/Tank",
         "itemBuild": [
             {
                 "icon": "",
@@ -453,8 +453,8 @@
         "fullName": "the Madman of Zaun",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Fighter/Tank",
         "itemBuild": [
             {
                 "icon": "",
@@ -517,8 +517,8 @@
         "fullName": "the Prodigal Explorer",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Ranged",
+        "role": "Marksman/Mage",
         "itemBuild": [
             {
                 "icon": "",
@@ -581,8 +581,8 @@
         "fullName": "the Grand Duelist",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Fighter/Assassin",
         "itemBuild": [
             {
                 "icon": "",
@@ -645,8 +645,8 @@
         "fullName": "the Tidal Trickster",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Assassin/Fighter",
         "itemBuild": [
             {
                 "icon": "",
@@ -708,8 +708,8 @@
         "fullName": "The Might of Demacia",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Fighter/Tank",
         "itemBuild": [
             {
                 "icon": "",
@@ -772,8 +772,8 @@
         "fullName": "the Rabble Rouser",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Fighter/Mage",
         "itemBuild": [
             {
                 "icon": "",
@@ -836,8 +836,8 @@
         "fullName": "the Storm's Fury",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Ranged",
+        "role": "Support/Mage",
         "itemBuild": [
             {
                 "icon": "",
@@ -900,8 +900,8 @@
         "fullName": "Grandmaster at Arms",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Fighter/Assassin",
         "itemBuild": [
             {
                 "icon": "",
@@ -964,8 +964,8 @@
         "fullName": "the Virtuoso",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Ranged",
+        "role": "Marksman/Mage",
         "itemBuild": [
             {
                 "icon": "",
@@ -1028,8 +1028,8 @@
         "fullName": "the Loose Cannon",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Ranged",
+        "role": "Marksman",
         "itemBuild": [
             {
                 "icon": "",
@@ -1092,8 +1092,8 @@
         "fullName": "the Lady of Luminosity",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Ranged",
+        "role": "Mage/Support",
         "itemBuild": [
             {
                 "icon": "",
@@ -1156,8 +1156,8 @@
         "fullName": "Shard of the Monolith",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Tank/Fighter",
         "itemBuild": [
             {
                 "icon": "",
@@ -1220,8 +1220,8 @@
         "fullName": "the Wuju Bladesman",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Assassin/Fighter",
         "itemBuild": [
             {
                 "icon": "",
@@ -1284,8 +1284,8 @@
         "fullName": "the Bounty Hunter",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Ranged",
+        "role": "Marksman",
         "itemBuild": [
             {
                 "icon": "",
@@ -1348,8 +1348,8 @@
         "fullName": "the Tidecaller",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Ranged",
+        "role": "Support/Mage",
         "itemBuild": [
             {
                 "icon": "",
@@ -1412,8 +1412,8 @@
         "fullName": "the Curator of the Sands",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Fighter/Tank",
         "itemBuild": [
             {
                 "icon": "",
@@ -1476,8 +1476,8 @@
         "fullName": "the Berserker",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Fighter/Tank",
         "itemBuild": [
             {
                 "icon": "",
@@ -1540,8 +1540,8 @@
         "fullName": "the Lady of Clockwork",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Ranged",
+        "role": "Mage/Support",
         "itemBuild": [
             {
                 "icon": "",
@@ -1604,8 +1604,8 @@
         "fullName": "the Half-Dragon",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Fighter/Tank",
         "itemBuild": [
             {
                 "icon": "",
@@ -1668,8 +1668,8 @@
         "fullName": "the Starchild",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Ranged",
+        "role": "Support/Mage",
         "itemBuild": [
             {
                 "icon": "",
@@ -1732,8 +1732,8 @@
         "fullName": "the Swift Scout",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Ranged",
+        "role": "Marksman/Assassin",
         "itemBuild": [
             {
                 "icon": "",
@@ -1796,8 +1796,8 @@
         "fullName": "the Barbarian King",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Fighter/Assassin",
         "itemBuild": [
             {
                 "icon": "",
@@ -1860,8 +1860,8 @@
         "fullName": "the Card Master",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Ranged",
+        "role": "Mage",
         "itemBuild": [
             {
                 "icon": "",
@@ -1924,8 +1924,8 @@
         "fullName": "the Night Hunter",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Ranged",
+        "role": "Marksman/Assassin",
         "itemBuild": [
             {
                 "icon": "",
@@ -1988,8 +1988,8 @@
         "fullName": "the Piltover Enforcer",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Fighter/Assassin",
         "itemBuild": [
             {
                 "icon": "",
@@ -2052,8 +2052,8 @@
         "fullName": "the Seneschal of Demacia",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Fighter/Assassin",
         "itemBuild": [
             {
                 "icon": "",
@@ -2116,8 +2116,8 @@
         "fullName": "the Unforgiven",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Fighter/Assassin",
         "itemBuild": [
             {
                 "icon": "",
@@ -2180,8 +2180,8 @@
         "fullName": "the Master of Shadows",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Melee",
+        "role": "Assassin",
         "itemBuild": [
             {
                 "icon": "",
@@ -2244,8 +2244,8 @@
         "fullName": "the Hexplosives Expert",
         "bluePrice": "",
         "goldPrice": "",
-        "type": "",
-        "role": "",
+        "type": "Ranged",
+        "role": "Mage",
         "itemBuild": [
             {
                 "icon": "",
