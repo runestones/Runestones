@@ -1,90 +1,26 @@
 [
-    {
-        "icon": "https://drive.google.com/uc?export=download&id=1zs5zVUQXix1881hVAU9dNKyqZ7G-agDM",
-        "name": "Blood Thirster",
-        "price": "3400",
-        "attribute": "",
-        "information1": "https://dl.dropboxusercontent.com/s/072cy080lgwr1zj/item1.png?dl=0",
-        "information2": "https://dl.dropboxusercontent.com/s/2ld8xrudqeos6ar/item2.png?dl=0"
+   {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Blade_of_the_Ruined_King.png/revision/latest?cb=20180812033258",
+        "name": "Blade Of The Ruined King",
+        "price": "3100",
+        "attribute": "+30 Attack Damage\n+30% Attack Speed",
+        "information1": "https://dl.dropboxusercontent.com/s/uxmzk3iulzomaf9/Blade%20Of%20The%20Ruined%20King.png?dl=0",
+        "information2": ""
     },
     {
-        "icon": "https://drive.google.com/uc?export=download&id=1zs5zVUQXix1881hVAU9dNKyqZ7G-agDM",
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
         "name": "Blood Thirster",
         "price": "3400",
-        "attribute": "",
-        "information1": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
-        "information2": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n"
+        "attribute": "+ 65 Attack Damage",
+        "information1": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0",
+        "information2": ""
     },
     {
-        "icon": "https://drive.google.com/uc?export=download&id=1zs5zVUQXix1881hVAU9dNKyqZ7G-agDM",
-        "name": "Blood Thirster",
-        "price": "3400",
-        "attribute": "",
-        "information1": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
-        "information2": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n"
-    },
-    {
-        "icon": "https://drive.google.com/uc?export=download&id=1zs5zVUQXix1881hVAU9dNKyqZ7G-agDM",
-        "name": "Blood Thirster",
-        "price": "3400",
-        "attribute": "",
-        "information1": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
-        "information2": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n"
-    },
-    {
-        "icon": "https://drive.google.com/uc?export=download&id=1zs5zVUQXix1881hVAU9dNKyqZ7G-agDM",
-        "name": "Blood Thirster",
-        "price": "3400",
-        "attribute": "",
-        "information1": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
-        "information2": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n"
-    },
-    {
-        "icon": "https://drive.google.com/uc?export=download&id=1zs5zVUQXix1881hVAU9dNKyqZ7G-agDM",
-        "name": "Blood Thirster",
-        "price": "3400",
-        "attribute": "",
-        "information1": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
-        "information2": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n"
-    },
-    {
-        "icon": "https://drive.google.com/uc?export=download&id=1zs5zVUQXix1881hVAU9dNKyqZ7G-agDM",
-        "name": "Blood Thirster",
-        "price": "3400",
-        "attribute": "",
-        "information1": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
-        "information2": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n"
-    },
-    {
-        "icon": "https://drive.google.com/uc?export=download&id=1zs5zVUQXix1881hVAU9dNKyqZ7G-agDM",
-        "name": "Blood Thirster",
-        "price": "3400",
-        "attribute": "",
-        "information1": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
-        "information2": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n"
-    },
-    {
-        "icon": "https://drive.google.com/uc?export=download&id=1zs5zVUQXix1881hVAU9dNKyqZ7G-agDM",
-        "name": "Blood Thirster",
-        "price": "3400",
-        "attribute": "",
-        "information1": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
-        "information2": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n"
-    },
-    {
-        "icon": "https://drive.google.com/uc?export=download&id=1zs5zVUQXix1881hVAU9dNKyqZ7G-agDM",
-        "name": "Blood Thirster",
-        "price": "3400",
-        "attribute": "",
-        "information1": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
-        "information2": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n"
-    },
-    {
-        "icon": "https://drive.google.com/uc?export=download&id=1zs5zVUQXix1881hVAU9dNKyqZ7G-agDM",
-        "name": "Blood Thirster",
-        "price": "3400",
-        "attribute": "",
-        "information1": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
-        "information2": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n"
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/Guardian_Angel.png/revision/latest?cb=20180730233953",
+        "name": "Guardian Angle",
+        "price": "2800",
+        "attribute": "+45 Attack Damage\n+40 Armor",
+        "information1": "https://dl.dropboxusercontent.com/s/zb38nd7xkva4799/Guardian%20Angle.png?dl=0",
+        "information2": ""
     }
 ]
