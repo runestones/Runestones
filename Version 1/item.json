@@ -1,5 +1,5 @@
 [
-   {
+    {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Blade_of_the_Ruined_King.png/revision/latest?cb=20180812033258",
         "name": "Blade Of The Ruined King",
         "price": "3100",
@@ -21,6 +21,54 @@
         "price": "2800",
         "attribute": "+45 Attack Damage\n+40 Armor",
         "information1": "https://dl.dropboxusercontent.com/s/zb38nd7xkva4799/Guardian%20Angle.png?dl=0",
+        "information2": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/Luden%27s_Echo.png/revision/latest?cb=20180814010151",
+        "name": "Luden's Echo",
+        "price": "3000",
+        "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+        "information1": "",
+        "information2": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Morellonomicon.png/revision/latest?cb=20180731001452",
+        "name": "Morellonomicon",
+        "price": "3000",
+        "attribute": "+300 Max Health\n+70 Ability Power",
+        "information1": "",
+        "information2": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/Spirit_Visage.png/revision/latest?cb=20170802134932",
+        "name": "Spirit Visage",
+        "price": "2900",
+        "attribute": "+300 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10% Cooldown Reduction",
+        "information1": "",
+        "information2": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Statikk_Shiv.png/revision/latest?cb=20180730224449",
+        "name": "Statikk Shiv",
+        "price": "2600",
+        "attribute": "+25% Critical Rate\n+35% Attack Speed",
+        "information1": "",
+        "information2": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/Sunfire_Cape.png/revision/latest?cb=20180812224548",
+        "name": "Sunfire Cape",
+        "price": "2800",
+        "attribute": "+400 Max Health\n+40 Armor",
+        "information1": "",
+        "information2": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b2/Void_Staff.png/revision/latest?cb=20170802172549",
+        "name": "Void Staff",
+        "price": "2800",
+        "attribute": "+70 Ability Power",
+        "information1": "",
         "information2": ""
     }
 ]
