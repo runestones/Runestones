@@ -1336,11 +1336,11 @@
                 "information2": ""
             }
         ],
-        "skillOne": "",
-        "skillTwo": "",
-        "skillThree": "",
-        "skillFour": "",
-        "skillFive": ""
+        "skillOne": "https://dl.dropboxusercontent.com/s/4o68fng4ypg5a8x/Miss%20Fortune%20skill%201.png?dl=0",
+        "skillTwo": "https://dl.dropboxusercontent.com/s/ollehvashxn0yg7/Miss%20Fortune%20skill%202.png?dl=0",
+        "skillThree": "https://dl.dropboxusercontent.com/s/en44kjls9rvjs8e/Miss%20Fortune%20skill%203.png?dl=0",
+        "skillFour": "https://dl.dropboxusercontent.com/s/p1zsltbwym600b7/Miss%20Fortune%20skill%204.png?dl=0",
+        "skillFive": "https://dl.dropboxusercontent.com/s/ohw5eohpixm1boo/Miss%20Fortune%20skill%205.png?dl=0"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/NamiSquare_Unreleased.png/revision/latest?cb=20170802071029",
