@@ -760,11 +760,11 @@
                 "information2": ""
             }
         ],
-        "skillOne": "",
-        "skillTwo": "",
-        "skillThree": "",
-        "skillFour": "",
-        "skillFive": ""
+        "skillOne": "https://dl.dropboxusercontent.com/s/u1t3iseshw9oq8o/Garen%20skill%201.png?dl=0",
+        "skillTwo": "https://dl.dropboxusercontent.com/s/fhktfuf8w154sjb/Garen%20skill%202.png?dl=0",
+        "skillThree": "https://dl.dropboxusercontent.com/s/xzw1dxlujf9ticj/Garen%20skill%203.png?dl=0",
+        "skillFour": "https://dl.dropboxusercontent.com/s/at4bdkl4yrvoetm/Garen%20skill%204.png?dl=0",
+        "skillFive": "https://dl.dropboxusercontent.com/s/q5lxi9utd6jdf3w/Garen%20skill%205.png?dl=0"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/GragasSquare.png/revision/latest?cb=20170801232908",
