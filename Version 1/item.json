@@ -112,6 +112,34 @@
         "information": ""
     },
     {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/Youmuu%27s_Ghostblade.png/revision/latest?cb=20180730225359",
+        "name": "Youmuu's Ghostblade",
+        "price": "3000",
+        "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+        "information": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6b/Duskblade_of_Draktharr.png/revision/latest?cb=20180730235246",
+        "name": "Duskblade of Draktharr",
+        "price": "3000",
+        "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+        "information": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Trinity_Force.png/revision/latest?cb=20180730224835",
+        "name": "Trinity Force",
+        "price": "3733",
+        "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+        "information": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/Maw_of_Malmortius.png/revision/latest?cb=20170802055853",
+        "name": "Maw of Malmortius",
+        "price": "3300",
+        "attribute": "+45 Attack Damage\n+35 Magic Resistance\n+10% Cooldown Reduction",
+        "information": ""
+    },
+    {
         "icon": "",
         "name": "",
         "price": "",
