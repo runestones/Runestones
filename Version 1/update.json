@@ -1,0 +1,9 @@
+{
+    "title": "New Update",
+    "message":"New update is available",
+    "version":"2.0",
+    "force":false,
+    "show":false,
+    "playStore":"https://play.google.com/store/apps/details?id=mm.computer.basic&hl=en",
+    "direct":"https://play.google.com/store/apps/details?id=mm.computer.basic&hl=en"   
+}
