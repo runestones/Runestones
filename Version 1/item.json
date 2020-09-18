@@ -140,6 +140,62 @@
         "information": ""
     },
     {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c7/Liandry%27s_Torment.png/revision/latest?cb=20170802041439",
+        "name": "Liandry's Torment",
+        "price": "3150",
+        "attribute": "+250 Max Health\n+90 Ability Power",
+        "information": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/85/Lich_Bane.png/revision/latest?cb=20170802041512",
+        "name": "Lich Bane",
+        "price": "3050",
+        "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
+        "information": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Manamune.png/revision/latest?cb=20180811223417",
+        "name": "Manamune",
+        "price": "2700",
+        "attribute": "+25 Attack Damage\n+300 Max Mana\n+10% Cooldown Reduction",
+        "information": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/79/Muramana.png/revision/latest?cb=20180811231920",
+        "name": "Muramana",
+        "price": "0",
+        "attribute": "+25 Attack Damage\n+1000 Max Mana\n+10% Cooldown Reduction",
+        "information": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/Nashor%27s_Tooth.png/revision/latest?cb=20170802071429",
+        "name": "Nashor's Tooth",
+        "price": "3200",
+        "attribute": "+50% Attack Speed\n+70 Ability Power\n+20% Cooldown Reduction",
+        "information": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/Rabadon%27s_Deathcap.png/revision/latest?cb=20180814084416",
+        "name": "Rabadon's Deathcap",
+        "price": "3500",
+        "attribute": "+130 Ability Power",
+        "information": ""
+    },
+    {
+        "icon": "",
+        "name": "",
+        "price": "",
+        "attribute": "",
+        "information": ""
+    },
+    {
+        "icon": "",
+        "name": "",
+        "price": "",
+        "attribute": "",
+        "information": ""
+    },
+    {
         "icon": "",
         "name": "",
         "price": "",
