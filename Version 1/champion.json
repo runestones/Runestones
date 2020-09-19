@@ -627,8 +627,8 @@
                 "icon": "",
                 "name": "",
                 "price": "",
-                "information": "",
-                "skillTwo": ""
+                "attribute": "",
+                "information": ""
             }
         ],
         "skillOne": "",
