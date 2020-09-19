@@ -1,6 +1,6 @@
 {
     "title": "New Update",
-    "message":"New update is available",
+    "message":"Bug fixes\nPerformance improvement",
     "version":"2.0",
     "force":true,
     "show":true,
