@@ -116,6 +116,64 @@
         "skillFive": ""
     },
     {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/AmumuSquare.png/revision/latest?cb=20170728173711",
+        "name": "Amumu",
+        "fullName": "the Sad Mummy",
+        "bluePrice": "6000",
+        "goldPrice": "10000",
+        "type": "Melee",
+        "role": "Tank/Mage",
+        "itemBuild": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            }
+        ],
+        "skillOne": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
+        "skillTwo": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
+        "skillThree": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
+        "skillFour": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
+        "skillFive": ""
+    },
+    {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/AnnieSquare.png/revision/latest?cb=20170728174744",
         "name": "Annie",
         "fullName": "the Dark Child",
@@ -761,6 +819,64 @@
         "goldPrice": "",
         "type": "Ranged",
         "role": "Support/Mage",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6c/Jarvan_IVSquare.png/revision/latest?cb=20170802015017",
+        "name": "Jarvan IV",
+        "fullName": "the Exemplar of Demacia",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "Melee",
+        "role": "Tank/Fighter",
         "itemBuild": [
             {
                 "icon": "",
@@ -1508,6 +1624,122 @@
         "skillFive": ""
     },
     {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/96/SingedSquare.png/revision/latest?cb=20170802131135",
+        "name": "Singed",
+        "fullName": "the Mad Chemist",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "Melee",
+        "role": "Tank/Fighter",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/56/SonaSquare.png/revision/latest?cb=20170802133553",
+        "name": "Sona",
+        "fullName": "Maven of the Strings",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "Ranged",
+        "role": "Support/Mage",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
+    },
+    {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8d/SorakaSquare.png/revision/latest?cb=20170802134039",
         "name": "Soraka",
         "fullName": "the Starchild",
@@ -1689,6 +1921,64 @@
         "goldPrice": "",
         "type": "Ranged",
         "role": "Mage",
+        "itemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+        "skillOne": "",
+        "skillTwo": "",
+        "skillThree": "",
+        "skillFour": "",
+        "skillFive": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/VarusSquare.png/revision/latest?cb=20171215034330",
+        "name": "Varus",
+        "fullName": "the Arrow of Retribution",
+        "bluePrice": "",
+        "goldPrice": "",
+        "type": "Ranged",
+        "role": "Marksman/Mage",
         "itemBuild": [
             {
                 "icon": "",
