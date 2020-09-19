@@ -1,8 +1,8 @@
 {
     "title": "New Update",
     "message":"New update is available",
-    "version":"2.0",
-    "force":false,
+    "version":"1.0",
+    "force":true,
     "show":true,
     "playStore":"https://play.google.com/store/apps/details?id=mm.computer.basic&hl=en",
     "direct":"https://play.google.com/store/apps/details?id=mm.computer.basic&hl=en"   
