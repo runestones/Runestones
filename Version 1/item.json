@@ -182,17 +182,52 @@
         "information": ""
     },
     {
-        "icon": "",
-        "name": "",
-        "price": "",
-        "attribute": "",
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Rylai%27s_Crystal_Scepter.png/revision/latest?cb=20170802112809",
+        "name": "Rylai's Crystal Scepter",
+        "price": "2700",
+        "attribute": "+350 Max Mana\n+70 Ability Power",
         "information": ""
     },
     {
-        "icon": "",
-        "name": "",
-        "price": "",
-        "attribute": "",
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/Seraph%27s_Embrace.png/revision/latest?cb=20170802124949",
+        "name": "Seraph's Embrace",
+        "price": "0",
+        "attribute": "+35 Ability Power\n+1200 Max Mana\n+20% Cooldown Reduction",
+        "information": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/Umbral_Glaive.png/revision/latest?cb=20191119200307",
+        "name": "Umbral Glaive",
+        "price": "2800",
+        "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+        "information": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/38/Archangel%27s_Staff.png/revision/latest?cb=20180811215839",
+        "name": "Archangel's Staff",
+        "price": "2950",
+        "attribute": "+35 Ability Power\n+500 Max Mana\n+20% Cooldown Reduction",
+        "information": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6b/Ardent_Censer.png/revision/latest?cb=20180811233831",
+        "name": "Ardent Censer",
+        "price": "2600",
+        "attribute": "+250 Max Health\n+60 Ability Power\n+10% Cooldown Reduction",
+        "information": ""
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/Hextech_Gunblade.png/revision/latest?cb=20180814014103",
+        "name": "Hextech Gunblade",
+        "price": "3200",
+        "attribute": "+30 Attack Damage\n+60 Ability Power",
+        "information": ""
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/94/Harmonic_Echo_%28Wild_Rift%29_item.png/revision/latest?cb=20200621151113",
+        "name": "Harmonic Echo",
+        "price": "2800",
+        "attribute": "+80 Ability Power\n+300 Max Mana\n+10% Cooldown Reduction",
         "information": ""
     },
     {
