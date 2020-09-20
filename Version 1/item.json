@@ -231,6 +231,34 @@
         "information": ""
     },
     {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/Athene%27s_Unholy_Grail.png/revision/latest?cb=20170728180920",
+        "name": "Athene's Unholy Grail",
+        "price": "2500",
+        "attribute": "+55 Ability Power\n+40 Magic Resistance\n+10% Cooldown Reduction",
+        "information": ""
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/db/Awakened_Soulstealer_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713121907",
+        "name": "Awakened Soulstealer",
+        "price": "2500",
+        "attribute": "+65 Ability Power\n+200 Max Mana\n+20% Cooldown Reduction",
+        "information": ""
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/ba/Infinity_Orb_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122044",
+        "name": "Infinity Orb",
+        "price": "2850",
+        "attribute": "+200 Max Health\n+60 Ability Power",
+        "information": ""
+    },
+    {
+        "icon": "",
+        "name": "",
+        "price": "",
+        "attribute": "",
+        "information": ""
+    },
+    {
         "icon": "",
         "name": "",
         "price": "",
