@@ -61,6 +61,32 @@
         "defence": "Heal: 2% of your max health",
         "coolDown": "",
         "information": "https://drive.google.com/uc?export=download&id=1AJM7bCfEvVXkb0YNAks1vta3n5KS-hy2"
+    }, {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d9/Rune_Fleet_Footwork.png/revision/latest?cb=20180809224356",
+        "name": "Fleet Footwork",
+        "type": "Mobility, Heal",
+        "damage": "Heal: 15 - 85 + 30% bonus(physical) + 30%(ability)",
+        "defence": "",
+        "coolDown": "",
+        "information": "https://drive.google.com/uc?export=download&id=1qxQLKKyzRi2U_dRIIV8DbbkKtq42MXpS"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b7/Rune_Font_of_Life.png/revision/latest?cb=20171110041919",
+        "name": "Font of Lift",
+        "type": "Team Heal",
+        "damage": "Heal: equal to 3% of your max health in 2 seconds ",
+        "defence": "",
+        "coolDown": "",
+        "information": "https://drive.google.com/uc?export=download&id=1TA7OGxLGPZXU0hZlQxIUsw3dspJMWys5"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/06/Rune_Grasp_of_the_Undying.png/revision/latest?cb=20171110041848",
+        "name": "Grasp of The Undying",
+        "type": "Tank, Heal",
+        "damage": "Bonus Magic Damage: 4% of your max health",
+        "defence": "Heal: 2% of your max health",
+        "coolDown": "",
+        "information": "https://drive.google.com/uc?export=download&id=1AJM7bCfEvVXkb0YNAks1vta3n5KS-hy2"
     },
     {
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/Rune_Kleptomancy.png/revision/latest?cb=20171110043824",
