@@ -7,7 +7,7 @@
         "goldPrice": "10000",
         "type": "Ranged",
         "role": "Mage/Assassin",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
                 "name": "Blood Thirster",
@@ -49,6 +49,154 @@
                 "price": "3400",
                 "attribute": "+ 65 Attack Damage",
                 "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/r4a3fhfq4jn4ds1/ahri%20skill%201.png?dl=0",
@@ -65,7 +213,7 @@
         "goldPrice": "10000",
         "type": "Melee",
         "role": "Tank/Support",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
                 "name": "Blood Thirster",
@@ -107,6 +255,154 @@
                 "price": "3400",
                 "attribute": "+ 65 Attack Damage",
                 "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
             }
         ],
         "skillOne": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
@@ -123,7 +419,7 @@
         "goldPrice": "10000",
         "type": "Melee",
         "role": "Tank/Mage",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
                 "name": "Blood Thirster",
@@ -165,6 +461,154 @@
                 "price": "3400",
                 "attribute": "+ 65 Attack Damage",
                 "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
             }
         ],
         "skillOne": "https://drive.google.com/uc?export=download&id=1sBQcuiHakcJwOnn1hPRJp3SIGSzGYy2n",
@@ -181,7 +625,7 @@
         "goldPrice": "10000",
         "type": "Ranged",
         "role": "Mage",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
                 "name": "Blood Thirster",
@@ -223,6 +667,154 @@
                 "price": "3400",
                 "attribute": "+ 65 Attack Damage",
                 "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
             }
         ],
         "skillOne": "https://dl.dropboxusercontent.com/s/02sbvz65ph6tt8j/annie%20skill%201.png?dl=0",
@@ -239,7 +831,7 @@
         "goldPrice": "10000",
         "type": "Ranged",
         "role": "Marksman/Support",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
                 "name": "Blood Thirster",
@@ -283,6 +875,154 @@
                 "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
             }
         ],
+        "recommendedItemBuild": [
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Bloodthirster.png/revision/latest?cb=20181129023250",
+                "name": "Blood Thirster",
+                "price": "3400",
+                "attribute": "+ 65 Attack Damage",
+                "information": "https://dl.dropboxusercontent.com/s/mvkkjrd603zwa2b/Blood%20Thirster_info.png?dl=0"
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
         "skillOne": "https://dl.dropboxusercontent.com/s/7a8cigf5qvvo99o/ashe%20skill%201.png?dl=0",
         "skillTwo": "https://dl.dropboxusercontent.com/s/meklqqukc00ezc7/ashe%20skill%202.png?dl=0",
         "skillThree": "https://dl.dropboxusercontent.com/s/7n812cuourks31t/ashe%20skill%203.png?dl=0",
@@ -297,7 +1037,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Tank/Fighter",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -338,6 +1078,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -355,7 +1243,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Support/Tank",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -399,6 +1287,155 @@
                 "information": ""
             }
         ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+        "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+       
         "skillOne": "",
         "skillTwo": "",
         "skillThree": "",
@@ -413,7 +1450,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Fighter/Tank",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -454,6 +1491,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -471,7 +1656,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Fighter/Tank",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -512,6 +1697,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -529,7 +1862,7 @@
         "goldPrice": "",
         "type": "Ranged",
         "role": "Marksman/Mage",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -570,6 +1903,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -587,7 +2068,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Fighter/Assassin",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -628,6 +2109,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -645,7 +2274,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Assassin/Fighter",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -689,6 +2318,154 @@
                 "information": ""
             }
         ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
         "skillOne": "",
         "skillTwo": "",
         "skillThree": "",
@@ -703,7 +2480,51 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Fighter/Tank",
-        "itemBuild": [
+        "defaultItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -761,7 +2582,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Fighter/Mage",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -802,6 +2623,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -819,7 +2788,7 @@
         "goldPrice": "",
         "type": "Ranged",
         "role": "Support/Mage",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -860,6 +2829,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -877,7 +2994,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Tank/Fighter",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -918,6 +3035,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -935,7 +3200,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Fighter/Assassin",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -976,6 +3241,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -993,7 +3406,7 @@
         "goldPrice": "",
         "type": "Ranged",
         "role": "Marksman/Mage",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -1034,6 +3447,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -1051,7 +3612,7 @@
         "goldPrice": "",
         "type": "Ranged",
         "role": "Marksman",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -1095,6 +3656,154 @@
                 "information": ""
             }
         ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
         "skillOne": "",
         "skillTwo": "",
         "skillThree": "",
@@ -1109,7 +3818,51 @@
         "goldPrice": "",
         "type": "Ranged",
         "role": "Mage/Support",
-        "itemBuild": [
+        "defaultItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -1167,7 +3920,51 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Tank/Fighter",
-        "itemBuild": [
+        "defaultItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -1225,7 +4022,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Assassin/Fighter",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -1269,6 +4066,154 @@
                 "information": ""
             }
         ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
         "skillOne": "",
         "skillTwo": "",
         "skillThree": "",
@@ -1283,7 +4228,51 @@
         "goldPrice": "",
         "type": "Ranged",
         "role": "Marksman",
-        "itemBuild": [
+        "defaultItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -1341,7 +4330,7 @@
         "goldPrice": "",
         "type": "Ranged",
         "role": "Support/Mage",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -1382,6 +4371,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -1399,7 +4536,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Fighter/Tank",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -1440,6 +4577,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -1457,7 +4742,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Fighter/Tank",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -1498,6 +4783,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -1515,7 +4948,7 @@
         "goldPrice": "",
         "type": "Ranged",
         "role": "Mage/Support",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -1556,6 +4989,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -1573,7 +5154,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Fighter/Tank",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -1614,6 +5195,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -1631,7 +5360,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Tank/Fighter",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -1672,6 +5401,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -1689,7 +5566,7 @@
         "goldPrice": "",
         "type": "Ranged",
         "role": "Support/Mage",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -1730,6 +5607,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -1747,7 +5772,7 @@
         "goldPrice": "",
         "type": "Ranged",
         "role": "Support/Mage",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -1788,6 +5813,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -1805,7 +5978,7 @@
         "goldPrice": "",
         "type": "Ranged",
         "role": "Marksman/Assassin",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -1846,6 +6019,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -1863,7 +6184,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Fighter/Assassin",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -1904,6 +6225,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -1921,7 +6390,7 @@
         "goldPrice": "",
         "type": "Ranged",
         "role": "Mage",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -1962,6 +6431,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -1979,7 +6596,7 @@
         "goldPrice": "",
         "type": "Ranged",
         "role": "Marksman/Mage",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -2020,6 +6637,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -2037,7 +6802,7 @@
         "goldPrice": "",
         "type": "Ranged",
         "role": "Marksman/Assassin",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -2081,6 +6846,154 @@
                 "information": ""
             }
         ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
         "skillOne": "",
         "skillTwo": "",
         "skillThree": "",
@@ -2095,7 +7008,51 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Fighter/Assassin",
-        "itemBuild": [
+        "defaultItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -2153,7 +7110,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Fighter/Assassin",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -2194,6 +7151,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -2211,7 +7316,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Fighter/Assassin",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -2252,6 +7357,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
@@ -2269,7 +7522,7 @@
         "goldPrice": "",
         "type": "Melee",
         "role": "Assassin",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -2313,6 +7566,154 @@
                 "information": ""
             }
         ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
         "skillOne": "",
         "skillTwo": "",
         "skillThree": "",
@@ -2327,7 +7728,7 @@
         "goldPrice": "",
         "type": "Ranged",
         "role": "Mage",
-        "itemBuild": [
+        "defaultItemBuild": [
             {
                 "icon": "",
                 "name": "",
@@ -2368,6 +7769,154 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+        "recommendedItemBuild": [
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "price": "",
+                "attribute": "",
+                "information": ""
+            }
+        ],
+       "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
