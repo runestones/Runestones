@@ -4628,6 +4628,110 @@
                 "information": ""
             }
         ],
+         "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
         "skillOne": "https://dl.dropboxusercontent.com/s/4o68fng4ypg5a8x/Miss%20Fortune%20skill%201.png?dl=0",
         "skillTwo": "https://dl.dropboxusercontent.com/s/ollehvashxn0yg7/Miss%20Fortune%20skill%202.png?dl=0",
         "skillThree": "https://dl.dropboxusercontent.com/s/en44kjls9rvjs8e/Miss%20Fortune%20skill%203.png?dl=0",
@@ -7405,6 +7509,110 @@
                 "name": "",
                 "price": "",
                 "attribute": "",
+                "information": ""
+            }
+        ],
+         "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
                 "information": ""
             }
         ],
