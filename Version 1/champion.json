@@ -4112,6 +4112,110 @@
                 "information": ""
             }
         ],
+         "defaultSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedSpells": [
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "defaultRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
+        "recommendedRunes":[
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            },
+            {
+                "icon": "",
+                "name": "",
+                "type": "",
+                "damage": "",
+                "defence": "",
+                "coolDown": "",
+                "information": ""
+            }
+        ],
         "skillOne": "https://dl.dropboxusercontent.com/s/m2r45hh8v5l1wd0/Malphite%20skill%201.png?dl=0",
         "skillTwo": "https://dl.dropboxusercontent.com/s/ck349o6qql4g5m9/Malphite%20skill%202.png?dl=0",
         "skillThree": "https://dl.dropboxusercontent.com/s/md0glmleluluib7/Malphite%20skill%203.png?dl=0",
