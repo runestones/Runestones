@@ -1,0 +1,74 @@
+[
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Rune_Summon_Aery.png/revision/latest?cb=20171110040347",
+        "name": "Aery",
+        "type": "Poke, Protect",
+        "damage": "Damage: 10 - 60 (lv) + 20% bonus(physical) + 10%(ability)",
+        "defence": "Shield: 20 - 120 (lv) + 40%(physical) + 20%(ability)",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/Rune_Aftershock.png/revision/latest?cb=20171110041856",
+        "name": "Aftershock",
+        "type": "Control, Offense",
+        "damage": "Damage: 12-110 + 4% max health, magic damage ",
+        "defence": "Defenses: 50 AR (armor) + 50% bonus AR and 50 MR (magic resistance) + 50% MR for 2.5 seconds ",
+        "coolDown": "Cooldown: 35 sec",
+        "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/Rune_Conqueror.png/revision/latest?cb=20180320191056",
+        "name": "Conqueror",
+        "type": "Stacking Damage",
+        "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
+        "defence": "",
+        "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
+        "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Rune_Electrocute.png/revision/latest?cb=20171110034548",
+        "name": "Electrocute",
+        "type": "Burst Damage",
+        "damage": "Damage: 30 - 184 (lv) + 40% bonus(physical) + 25%(ability)",
+        "defence": "",
+        "coolDown": "Cooldown: 25 seconds",
+        "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d9/Rune_Fleet_Footwork.png/revision/latest?cb=20180809224356",
+        "name": "Fleet Footwork",
+        "type": "Mobility, Heal",
+        "damage": "Heal: 15 - 85 + 30% bonus(physical) + 30%(ability)",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b7/Rune_Font_of_Life.png/revision/latest?cb=20171110041919",
+        "name": "Font of Lift",
+        "type": "Team Heal",
+        "damage": "Heal: equal to 3% of your max health in 2 seconds ",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/06/Rune_Grasp_of_the_Undying.png/revision/latest?cb=20171110041848",
+        "name": "Grasp of The Undying",
+        "type": "Tank, Heal",
+        "damage": "Bonus Magic Damage: 4% of your max health",
+        "defence": "Heal: 2% of your max health",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/Rune_Kleptomancy.png/revision/latest?cb=20171110043824",
+        "name": "Kleptomancy",
+        "type": "Random Buff",
+        "damage": "",
+        "defence": "",
+        "coolDown": "Cooldown: 25 seconds",
+        "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+    }
+]
