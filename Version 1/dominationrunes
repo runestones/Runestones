@@ -9,7 +9,7 @@
         "detail": "https://dl.dropboxusercontent.com/s/lncpd9q3doxm41b/Brutal.png?dl=0"
     },
     {
-        "icon": "",
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/76/Champion_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102535",
         "name": "Champion",
         "type": "High Risk, High damage",
         "damage": "",
@@ -18,7 +18,7 @@
         "detail": "https://dl.dropboxusercontent.com/s/ra542acjzrspdzq/Champion.png?dl=0"
     },
     {
-        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b1/Rune_Gathering_Storm.png/revision/latest?cb=20171110040441",
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2c/Gathering_Storm_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102733",
         "name": "Gathering Storm",
         "type": "Increasing AD/AP",
         "damage": "",
@@ -27,7 +27,7 @@
         "detail": "https://dl.dropboxusercontent.com/s/ccch1ojoijar6zf/Gathering%20Storm.png?dl=0"
     },
     {
-        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/Rune_Ravenous_Hunter.png/revision/latest?cb=20171110034632",
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f9/Hunter_-_Vampirism_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114033",
         "name": "Hunter-Vampirism",
         "type": "AD/AP, Vamp",
         "damage": "",
@@ -45,7 +45,7 @@
         "detail": "https://dl.dropboxusercontent.com/s/3x8qr7ag4p83ok1/Triumph.png?dl=0"
     },
     {
-        "icon": "",
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Weakness_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713114049",
         "name": "Weakness",
         "type": "Control, Bonus damage",
         "damage": "",
