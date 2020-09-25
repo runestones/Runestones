@@ -1,0 +1,56 @@
+[
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
+        "name": "Hunter-Genius",
+        "type": "CRD",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": ""
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
+        "name": "Manaflow Band",
+        "type": "Mana",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": ""
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Pathfinder_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103015",
+        "name": "Mastermind",
+        "type": "Objectives, Gold",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": ""
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
+        "name": "Pack Hunter",
+        "type": "Mobility, Team Gold",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": ""
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Pathfinder_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103015",
+        "name": "Pathfinder",
+        "type": "Mobility",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": ""
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e1/Sweet_Tooth_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103128",
+        "name": "Sweet Tooth",
+        "type": "Honeyfruit, Gold",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": ""
+    }
+]
