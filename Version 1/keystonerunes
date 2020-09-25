@@ -3,8 +3,8 @@
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Rune_Summon_Aery.png/revision/latest?cb=20171110040347",
         "name": "Aery",
         "type": "Poke, Protect",
-        "damage": "Damage: 10 - 60 (lv) + 20% bonus(physical) + 10%(ability)",
-        "defence": "Shield: 20 - 120 (lv) + 40%(physical) + 20%(ability)",
+        "damage": "Damage: 10 - 60 (lv) + 20% bonus (physical) + 10% (ability)",
+        "defence": "Shield: 20 - 120 (lv) + 40% (physical) + 20% (ability)",
         "coolDown": "",
         "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
     },
@@ -30,7 +30,7 @@
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Rune_Electrocute.png/revision/latest?cb=20171110034548",
         "name": "Electrocute",
         "type": "Burst Damage",
-        "damage": "Damage: 30 - 184 (lv) + 40% bonus(physical) + 25%(ability)",
+        "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
         "defence": "",
         "coolDown": "Cooldown: 25 seconds",
         "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
@@ -39,7 +39,7 @@
         "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d9/Rune_Fleet_Footwork.png/revision/latest?cb=20180809224356",
         "name": "Fleet Footwork",
         "type": "Mobility, Heal",
-        "damage": "Heal: 15 - 85 + 30% bonus(physical) + 30%(ability)",
+        "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
         "defence": "",
         "coolDown": "",
         "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
