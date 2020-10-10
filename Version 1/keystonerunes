@@ -8,6 +8,15 @@
         "coolDown": "",
         "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
     },
+       {
+        "icon": "https://dl.dropboxusercontent.com/s/ghybgab1ontqdhx/GraspoftheUndying.png?dl=0",
+        "name": "Grasp of The Undying",
+        "type": "Tank, Heal",
+        "damage": "Bonus Magic Damage: 4% of your max health",
+        "defence": "Heal: 2% of your max health",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
+    },
     {
         "icon": "https://dl.dropboxusercontent.com/s/b75twq8bpvyzhnw/Aftershock.png?dl=0",
         "name": "Aftershock",
@@ -53,15 +62,7 @@
         "coolDown": "",
         "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
     },
-    {
-        "icon": "https://dl.dropboxusercontent.com/s/ghybgab1ontqdhx/GraspoftheUndying.png?dl=0",
-        "name": "Grasp of The Undying",
-        "type": "Tank, Heal",
-        "damage": "Bonus Magic Damage: 4% of your max health",
-        "defence": "Heal: 2% of your max health",
-        "coolDown": "",
-        "detail": "https://dl.dropboxusercontent.com/s/1rh3zu2ghybod1g/Weakness.png?dl=0"
-    },
+ 
     {
         "icon": "https://dl.dropboxusercontent.com/s/qmcv935z0xg04c3/Kleptomancy.png?dl=0",
         "name": "Kleptomancy",
