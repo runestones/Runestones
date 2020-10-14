@@ -9,6 +9,15 @@
         "detail": "https://dl.dropboxusercontent.com/s/ffl3hzk59wkdphx/aery.png?dl=0"
     },
     {
+        "icon": "https://dl.dropboxusercontent.com/s/ghybgab1ontqdhx/GraspoftheUndying.png?dl=0",
+        "name": "Grasp of The Undying",
+        "type": "Tank, Heal",
+        "damage": "Bonus Magic Damage: 4% of your max health",
+        "defence": "Heal: 2% of your max health",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/ko19v5hsgdxagxj/grasp%20of%20theundying.png?dl=0"
+    },
+    {
         "icon": "https://dl.dropboxusercontent.com/s/b75twq8bpvyzhnw/Aftershock.png?dl=0",
         "name": "Aftershock",
         "type": "Control, Offense",
@@ -43,15 +52,6 @@
         "defence": "",
         "coolDown": "",
         "detail": "https://dl.dropboxusercontent.com/s/q9flmlxluv05zp5/fleet%20footwork.png?dl=0"
-    },
-    {
-        "icon": "https://dl.dropboxusercontent.com/s/ghybgab1ontqdhx/GraspoftheUndying.png?dl=0",
-        "name": "Grasp of The Undying",
-        "type": "Tank, Heal",
-        "damage": "Bonus Magic Damage: 4% of your max health",
-        "defence": "Heal: 2% of your max health",
-        "coolDown": "",
-        "detail": "https://dl.dropboxusercontent.com/s/ko19v5hsgdxagxj/grasp%20of%20theundying.png?dl=0"
     },
     {
         "icon": "https://dl.dropboxusercontent.com/s/l5d5ps0lxrwb7ph/FontofLife.png?dl=0",
